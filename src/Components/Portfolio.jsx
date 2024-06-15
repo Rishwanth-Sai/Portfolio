@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/laptop-with-book.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "laptop along with a book";
 
 /**
  * Project list
@@ -31,28 +31,22 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Auto-Keithley",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Contributed to create a desktop application to operate the Keithley 2450 Source Measure Unit (SMU) and control a UV light source, collecting experimental data.",
+    url: "https://drive.google.com/drive/folders/1KTTzDhBOIbFQ4OAMoLoSWo0kUP-D4vgJ?usp=drive_link",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Flight Database System",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Contributed to building a website for booking flights, providing users with an easy and efficient way to plan their travel.",
+    url: "https://drive.google.com/drive/folders/13jEC6QtYcQEKvibKLDy4mfkco5TY8PWg?usp=drive_link",
   },
   {
-    title: "My Resume Site",
+    title: "Face-Recognition Based Attendance System",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
-  },
-  {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Created a website that recognizes and records attendance of students from uploaded classroom images using face-recognition technology.",
+    url: "https://drive.google.com/drive/folders/1qJSmYOHxVPEy3CMnii7MOB8yyelsi2Vd?usp=drive_link",
   },
 ];
 
